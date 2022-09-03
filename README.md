@@ -1,7 +1,7 @@
 # MySQL - Manipulación y Consultas
 ## Desafio curso FullStack de Digital House
 
-<a href="https://github.com/Kaiael24/DB_Modelos-Consultas/blob/master/Desafio/diseñoTablas.pdf">IR AL PDF</a>
+<a href="https://github.com/Kaiael24/DB_Modelos-Consultas/blob/master/Desafio/manipulacionConsultas.pdf">IR AL PDF</a>
 
    
 ## Preview y Consultas del desafio finalizado
